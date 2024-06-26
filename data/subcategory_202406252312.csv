@@ -1,0 +1,13 @@
+"id","subCategoryName","slug","description","createdAt","updatedAt","categoryId","isActive"
+"0cd653cf-f0e4-440c-ab57-607ddb2ce3b8",Hải Sản Nhúng Lẩu,hai-san-nhung-lau,"","2024-05-24 16:09:21.199215","2024-05-24 18:26:52.675037","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+"1a39c281-a1fe-4bba-a164-17acb509bef1",Thịt Nhúng Lẩu,thit-nhung-lau,"","2024-05-24 15:45:34.784611","2024-05-24 18:26:52.682064","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+"4447709a-952d-4485-8ff7-0137da4783b0",Thịt Thêm,thit-them,"","2024-05-24 17:13:58.131892","2024-05-24 18:48:31.708201","19ee26f0-169f-4c43-b303-3e8ba075faaa",1
+"53efebb5-a8ec-4ca9-96e9-dac64d661ae6",Các Đồ Nhúng Khác,cac-do-nhung-khac,"","2024-05-24 16:10:36.695514","2024-05-24 18:26:52.696024","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+"673e3540-3b86-492b-b00e-313ad1b719cb",Món ăn,mon-an,"","2024-05-25 03:24:53.854144","2024-06-08 02:13:03.425130","87352383-d2b3-4cb5-936b-54b47da3bdd4",1
+"78e62d63-fdc5-44d1-98ea-f751e406a09c",Rau Nhúng Lẩu,rau-nhung-lau,"","2024-05-24 15:48:09.208127","2024-05-24 18:26:52.702010","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+"797bfbf2-791c-4537-916d-0f96ae6c100a",Nước Lẩu Thêm,nuoc-lau-them,"","2024-05-24 16:11:09.759033","2024-05-24 18:26:52.709291","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+"7ecfe3e1-81d0-4217-8e4b-5885ba99131e",Nấm Nhúng Lẩu,nam-nhung-lau,"","2024-05-24 16:10:03.482971","2024-05-24 18:26:52.714535","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+b654377e-816e-4483-95d7-aea61ffb062d,Viên Thả Lẩu,vien-tha-lau,"","2024-05-24 16:03:13.149969","2024-05-24 18:26:52.719380","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+ce2dba3c-21c6-4099-a6dd-4b60fdc57b36,Rau Nấm Thêm,rau-nam-them,"","2024-05-24 17:14:04.585836","2024-05-24 18:49:00.300934","19ee26f0-169f-4c43-b303-3e8ba075faaa",1
+dd1500b9-deda-467a-80d8-e1310ff12818,Cốt Lẩu Hadilao,cot-lau-hadilao,"","2024-05-24 16:10:51.910575","2024-05-24 18:26:52.732034","1f3c9c1d-f82e-453b-a2ef-fb58ad2bcfa9",1
+e7e3339f-b501-4eb3-9f22-b781b98b9ead,Hải Sản Thêm,hai-san-them,"","2024-05-24 18:50:23.282589","2024-05-24 18:50:23.282589","19ee26f0-169f-4c43-b303-3e8ba075faaa",1
